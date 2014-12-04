@@ -5,7 +5,7 @@ FaceGraph lets you visualize the network of your Facebook friends.
 
 Download
 --------
-Compiled program / source code can be donloaded [here](http://premun.kiba.cz/mff/FaceGraph/FaceGraph.zip);
+Compiled program / source code can be downloaded [here](http://premun.kiba.cz/mff/FaceGraph/FaceGraph.zip);
 
 
 How it works
